@@ -10,11 +10,11 @@
 </a>&nbsp;
 </p>
     
-abaixonado pela tecnologia❤
+apaixonado pela tecnologia❤
 
 **sobre mim:**
 
- 📍 Do RJ vivendo em Curitiba-PR.
+📍 Do RJ vivendo em Curitiba-PR.
  
 🎓 Cursandoba bacharelado em sistemas de informação.  
 
