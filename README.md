@@ -16,7 +16,7 @@ apaixonado pela tecnologia❤
 
 📍 Do RJ vivendo em Curitiba-PR.
  
-🎓 Cursandoba bacharelado em sistemas de informação.  
+🎓 Cursandoba  bacharelado em sistemas de informação.  
 
 🎯 sempre focado para alcançar o alvo.
 
