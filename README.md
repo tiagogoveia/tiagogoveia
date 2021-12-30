@@ -27,7 +27,7 @@ apaixonado pela tecnologia❤
 
 ### Tecnologias em aprendizagem :
 
-<code><img height="30" src=""></code>
+<code><img height="30" src="https://github.com/tiagogoveia/tiagogoveia/blob/main/js%20fundo%20preto.png"></code>
 <code><img height="30" src="https://i2.wp.com/hypi.io/wp-content/uploads/2020/07/5da6137a51a426ffcbfdca45_Golang.jpeg?fit=1200%2C800&ssl=1"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
