@@ -6,8 +6,8 @@
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/tiago-mendonça-b34700228"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-purple.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
-</a>&nbsp;
+    
+
 </p>
     
 apaixonado pela tecnologia❤
